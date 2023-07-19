@@ -1,3 +1,4 @@
+/*  Magic Variable Addition  */
 .text
 .align 2
 .thumb

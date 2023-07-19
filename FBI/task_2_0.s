@@ -1,3 +1,4 @@
+/*  Load the First Letter of the 20th Move in the Move Name Table  */
 .text
 .align 2
 .thumb

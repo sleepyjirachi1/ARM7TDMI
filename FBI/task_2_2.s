@@ -1,3 +1,4 @@
+/*  Concatenating First Half of r0 with Last Half of r1  */
 .text
 .align 2
 .thumb

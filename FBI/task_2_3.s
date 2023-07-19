@@ -1,3 +1,4 @@
+/*  Copying FF Terminated Strings from the Move Name Table into RAM  */
 .text
 .align 2
 .thumb

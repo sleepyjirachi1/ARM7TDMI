@@ -1,9 +1,11 @@
+/*  Writing My Own strcpy  */
 .text
 .align 2
 .thumb
 .thumb_func
 
-@ strcopy (char* dest | r0, const char* src | r1)
+@ strcpy (char* dest | r0, const char* src | r1) //best implementation (C standard) ✔️
+@ strcpy (const char* src | 0, char* dest) //alternate implementation ❌
 
 main:
     push {r0-r2, lr}

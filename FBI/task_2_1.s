@@ -1,3 +1,4 @@
+/*  Looping Over Imaginary Table of Sellable Item IDs  */
 .text
 .align 2
 .thumb
